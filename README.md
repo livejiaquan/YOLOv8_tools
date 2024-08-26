@@ -2,8 +2,6 @@
 
 A collection of tools for processing YOLO datasets, ensuring consistency between label files and images, and performing necessary modifications and checks.
 
-## How to Use
-
 To view the documentation in Traditional Chinese, [繁體中文](./README.zh_TW.md).
 
 ## Tools
