@@ -4,7 +4,7 @@ A collection of tools for processing YOLO datasets, ensuring consistency between
 
 ## How to Use
 
-To view the documentation in Traditional Chinese, [click here](./README.zh_TW.mdzh.md).
+To view the documentation in Traditional Chinese, [繁體中文](./README.zh_TW.md).
 
 ## Tools
 
